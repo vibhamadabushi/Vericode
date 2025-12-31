@@ -1,0 +1,7 @@
+qrcode
+Pillow
+opencv-python
+cryptography
+fpdf
+ttkbootstrap
+pandas
