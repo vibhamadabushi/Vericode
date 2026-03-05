@@ -69,7 +69,7 @@ Switch between light and dark themes for enhanced user experience.
 
 - Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/vibhamadabushi/Vericode.git
 cd vericode
 ```
 
